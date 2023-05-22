@@ -1,0 +1,17 @@
+{
+  "name": "projeto_integrador_ciclo02",
+  "version": "1.0.0",
+  "description": "Projeto integrador referente ao ciclo 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Antônio Claudio Ferreira Filho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.1",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.31.1"
+  }
+}
